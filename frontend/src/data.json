@@ -1,0 +1,122 @@
+[
+  {
+    "ID": 1,
+    "courseName": "הקדמה ל־React",
+    "courseDate": "2023-08-01",
+    "courseDescription": "למדו את היסודות של React.js ובניית אפליקציות דינמיות לרשת האינטרנט."
+  },
+  {
+    "ID": 2,
+    "courseName": "יסודות JavaScript",
+    "courseDate": "2023-08-10",
+    "courseDescription": "למדו את היסודות של שפת התכנות JavaScript."
+  },
+  {
+    "ID": 3,
+    "courseName": "יסודות Node.js",
+    "courseDate": "2023-08-15",
+    "courseDescription": "למדו את היסודות של פיתוח צד שרת באמצעות Node.js."
+  },
+  {
+    "ID": 4,
+    "courseName": "מאסטר ב-HTML ו-CSS",
+    "courseDate": "2023-08-20",
+    "courseDescription": "השליטון המלא ב-HTML וב-CSS לצורך פיתוח רשת."
+  },
+  {
+    "ID": 5,
+    "courseName": "Python למתחילים",
+    "courseDate": "2023-08-25",
+    "courseDescription": "התחילו לתכנת בשפת Python מההתחלה."
+  },
+  {
+    "ID": 6,
+    "courseName": "פיתוח אפליקציות נייטיביות ב־React Native",
+    "courseDate": "2023-08-30",
+    "courseDescription": "למדו לבנות אפליקציות נייטיביות תוך שימוש ב־React Native לפלטפורמות שונות."
+  },
+  {
+    "ID": 7,
+    "courseName": "יסודות Angular",
+    "courseDate": "2023-09-05",
+    "courseDescription": "גלו את היסודות ב־Angular לפיתוח אפליקציות רשת."
+  },
+  {
+    "ID": 8,
+    "courseName": "Vue.js לפיתוח חזיתי",
+    "courseDate": "2023-09-10",
+    "courseDescription": "חקרו את ספריית Vue.js לבניית אפליקציות חזיתיות אינטרקטיביות."
+  },
+  {
+    "ID": 9,
+    "courseName": "יסודות Java",
+    "courseDate": "2023-09-15",
+    "courseDescription": "קבלו בסיס יציב בשפת התכנות Java."
+  },
+  {
+    "ID": 10,
+    "courseName": "יסודות C#",
+    "courseDate": "2023-09-20",
+    "courseDescription": "למדו את היסודות של שפת התכנות C#."
+  },
+  {
+    "ID": 11,
+    "courseName": "הקדמה מהירה ל־Ruby on Rails",
+    "courseDate": "2023-09-25",
+    "courseDescription": "צפו בהקדמה מהירה לפיתוח רשת ב־Ruby on Rails."
+  },
+  {
+    "ID": 12,
+    "courseName": "ניהול מסדי נתונים SQL",
+    "courseDate": "2023-09-30",
+    "courseDescription": "למדו לנהל ולשאילת מסדי נתונים SQL ביעילות."
+  },
+  {
+    "ID": 13,
+    "courseName": "מדעי הנתונים עם Python",
+    "courseDate": "2023-10-05",
+    "courseDescription": "חקרו מושגים וכלים בתחום מדעי הנתונים באמצעות Python."
+  },
+  {
+    "ID": 14,
+    "courseName": "יסודות למידת מכונה",
+    "courseDate": "2023-10-10",
+    "courseDescription": "התחילו עם היסודות של למידת מכונה."
+  },
+  {
+    "ID": 15,
+    "courseName": "יסודות הבינה המלאכותית",
+    "courseDate": "2023-10-15",
+    "courseDescription": "גלו את העקרונות והיישומים של הבינה המלאכותית."
+  },
+  {
+    "ID": 16,
+    "courseName": "יסודות אבטחת הרשת",
+    "courseDate": "2023-10-20",
+    "courseDescription": "למדו את היסודות של אבטחת הרשת והפרוטוקולים."
+  },
+  {
+    "ID": 17,
+    "courseName": "טכניקות פריצה ובדיקות חוקיות",
+    "courseDate": "2023-10-25",
+    "courseDescription": "חקרו טכניקות פריצה אתיקליות ובדיקות חוקיות."
+  },
+  {
+    "ID": 18,
+    "courseName": "יסודות גישה לענן AWS",
+    "courseDate": "2023-10-30",
+    "courseDescription": "התחילו עם גישה לענן באמצעות שירותי Amazon Web Services."
+  },
+  {
+    "ID": 19,
+    "courseName": "אסטרטגיות שיווק לאפליקציות ניידות",
+    "courseDate": "2023-11-05",
+    "courseDescription": "למדו אסטרטגיות שיווקים אפקטיביות לאפליקציות ניידות."
+  },
+  {
+    "ID": 20,
+    "courseName": "עקרונות עיצוב UI/UX",
+    "courseDate": "2023-11-10",
+    "courseDescription": "גלו את עקרונות עיצוב ממשק משתמש וחוויית משתמש."
+  }
+]
